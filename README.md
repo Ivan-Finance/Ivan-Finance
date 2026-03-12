@@ -16,4 +16,4 @@ Focusing on learning how to turn raw information into clear insights.
 
 ---
 
-📫 **Find me on:** [Link al tuo LinkedIn]
+📫 **Find me on:** [https://www.linkedin.com/in/ivan-garofalo]
