@@ -1,4 +1,4 @@
-# Hi, I'm [Il Tuo Nome] 👋
+# Hi, I'm Ivan 👋
 
 ### Python & Data Analysis
 I enjoy building Python scripts to organize data and automate simple tasks. 
