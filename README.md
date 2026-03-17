@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="1001" height="713" alt="asset classes" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256" width="900"/>
+<img width="1001" height="713" alt="asset classes" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256" width="600"/>
 
 <br>
 <sub><i>Asset classes - normalized performance & correlations</i></sub>
@@ -50,7 +50,7 @@ through data and structured reasoning.
 
 <br><br>
 
-<img width="929" height="425" alt="cumulative_growth" src="https://github.com/user-attachments/assets/042f0049-de47-4610-bd04-ada89392eea2" width="900"/>
+<img width="929" height="425" alt="cumulative_growth" src="https://github.com/user-attachments/assets/042f0049-de47-4610-bd04-ada89392eea2" width="600"/>
 <sub><i>Cumulative growth across market regimes</i></sub>
 
 <br>
