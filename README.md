@@ -1,6 +1,6 @@
 <div align="center">
 
-# Markets are just stories told in numbers.
+# Learning to read markets through data.
 
 <br>
 
