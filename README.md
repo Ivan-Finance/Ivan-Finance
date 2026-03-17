@@ -4,7 +4,7 @@
 
 <br>
 
-<img width="1001" height="713" alt="asset classes" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256" width="400"/>
+<img width="1001" height="713" alt="asset classes" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256" width="100"/>
 
 <br>
 <sub><i>Asset classes - normalized performance & correlations</i></sub>
