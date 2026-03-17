@@ -4,12 +4,13 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Ivan-Finance/Volatility-index-analysis-VIX/main/images/Volatility_regimes_visualization.png" width="900">
+<img width="1001" height="713" alt="asset classes" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256" width="900"/>
 
 <br>
-<sub><i>VIX Volatility Regimes — Calm vs. Stress periods since 1990</i></sub>
+<sub><i>Asset classes - normalized performance & correlations</i></sub>
 
 </div>
+
 
 ---
 
@@ -43,15 +44,14 @@ through data and structured reasoning.
 
 ---
 
-<br>
 
-<div align="center">
+<img width="1145" height="286" alt="ret_distributions" src="https://github.com/user-attachments/assets/bb320f25-8d8b-44c7-abf1-fc23cf1b47a6" width="700" />
+<sub><i>Monthly return distributions across strategies</i></sub>
 
-<img src="https://raw.githubusercontent.com/Ivan-Finance/Volatility-index-analysis-VIX/main/images/vix_vs_sp500.jpeg" width="750">
+<br><br>
 
-<sub><i>VIX vs S&P 500 Monthly Returns — the inverse relationship in data</i></sub>
-
-</div>
+<img width="929" height="425" alt="cumulative_growth" src="https://github.com/user-attachments/assets/042f0049-de47-4610-bd04-ada89392eea2" width="900"/>
+<sub><i>Cumulative growth across market regimes</i></sub>
 
 <br>
 
