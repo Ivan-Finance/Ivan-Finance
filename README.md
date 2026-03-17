@@ -1,19 +1,66 @@
-# Hi, I'm Ivan 👋
+<div align="center">
 
-### Python & Data Analysis
-I enjoy building Python scripts to organize data and automate simple tasks. 
-Focusing on learning how to turn raw information into clear insights.
+# Markets are just stories told in numbers.
 
----
+<br>
 
-### 🛠 Tools
-- **Language:** Python
-- **Libraries:** Pandas, Matplotlib, NumPy
+<img src="https://raw.githubusercontent.com/Ivan-Finance/Volatility-index-analysis-VIX/main/images/Volatility_regimes_visualization.png" width="900">
 
-### 📂 What I'm building
-- **Finance:** Scripts for market data and volatility analysis.
-- **Specimens:** Data tools for paleontological research.
+<br>
+<sub><i>VIX Volatility Regimes — Calm vs. Stress periods since 1990</i></sub>
+
+</div>
 
 ---
 
-📫 **Find me on:** [https://www.linkedin.com/in/ivan-garofalo]
+<br>
+
+I'm Ivan — a finance student drawn to the quantitative side of markets.  
+I study how volatility, risk, and portfolio behavior can be understood  
+through data and structured reasoning.
+
+Python is the tool. Understanding markets is the goal.
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+| Project | What it explores |
+|:---|:---|
+| 📉 [VIX & Volatility Analysis](https://github.com/Ivan-Finance/Volatility-index-analysis-VIX) | Regime classification, realized volatility, VIX vs S&P 500 |
+| 📊 Dynamic Asset Allocation | How shifting market conditions should drive portfolio weights |
+| 🦕 Dino Explorer | API integration, PDF export, CLI design |
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ivan-Finance/Volatility-index-analysis-VIX/main/images/vix_vs_sp500.jpeg" width="750">
+
+<sub><i>VIX vs S&P 500 Monthly Returns — the inverse relationship in data</i></sub>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+**Python · Pandas · NumPy · Matplotlib**
+
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/ivan-garofalo) · [GitHub Projects](https://github.com/Ivan-Finance?tab=repositories)
+
+</div>
