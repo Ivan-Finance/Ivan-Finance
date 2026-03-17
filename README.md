@@ -15,9 +15,13 @@
 
 <br>
 
+<div align="center">
+
 I'm Ivan, a finance student drawn to the quantitative side of markets.  
 I study how volatility, risk, and portfolio behavior can be understood  
 through data and structured reasoning.
+
+</div>
 
 <br>
 
