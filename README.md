@@ -33,7 +33,7 @@ Python is the tool. Understanding markets is the goal.
 |:---|:---|
 | 📉 [VIX & Volatility Analysis](https://github.com/Ivan-Finance/Volatility-index-analysis-VIX) | Regime classification, realized volatility, VIX vs S&P 500 |
 | 📊 Dynamic Asset Allocation | How shifting market conditions should drive portfolio weights |
-| 🦕 Dino Explorer | API integration, PDF export, CLI design |
+| 🦕 [Dino Explorer](https://github.com/Ivan-Finance/Dino_Explorer) | API integration, PDF export, CLI design |
 
 </div>
 
