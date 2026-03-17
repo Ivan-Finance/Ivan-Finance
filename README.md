@@ -15,11 +15,9 @@
 
 <br>
 
-I'm Ivan — a finance student drawn to the quantitative side of markets.  
+I'm Ivan, a finance student drawn to the quantitative side of markets.  
 I study how volatility, risk, and portfolio behavior can be understood  
 through data and structured reasoning.
-
-Python is the tool. Understanding markets is the goal.
 
 <br>
 
