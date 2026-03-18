@@ -37,7 +37,7 @@ through data and structured reasoning.
 | 📉 [VIX & Volatility Analysis](https://github.com/Ivan-Finance/Volatility-index-analysis-VIX) | Regime classification, realized volatility, VIX vs S&P 500 |
 | 📊 Dynamic Asset Allocation | How shifting market conditions should drive portfolio weights |
 | 🦕 [Dino Explorer](https://github.com/Ivan-Finance/Dino_Explorer) | API integration, PDF export, CLI design |
-| 📈 [VaR Simulation](https://github.com/Ivan-Finance/var_simulation) | Historical Simulation, Parametric (Gaussian), Monte Carlo, backtesting, stress testing |
+| 📈 [VaR Simulation](https://github.com/Ivan-Finance/var_simulation) | Historical Simulation, Parametric (Gaussian), Monte Carlo |
 
 </div>
 
