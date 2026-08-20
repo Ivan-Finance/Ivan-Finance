@@ -70,9 +70,3 @@ through data and structured reasoning.
 
 [LinkedIn](https://www.linkedin.com/in/ivan-garofalo) · [GitHub Projects](https://github.com/Ivan-Finance?tab=repositories)
 
-</div>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FIvan-Finance%2FIvan-Finance&labelColor=%2337d67a&countColor=%23263238&style=flat" alt="Visitors">
-</p>
-
