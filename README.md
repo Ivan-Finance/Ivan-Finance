@@ -35,7 +35,7 @@ through data and structured reasoning.
 | Project | What it explores |
 |:---|:---|
 | 📉 [VIX & Volatility Analysis](https://github.com/Ivan-Finance/Volatility-index-analysis-VIX) | Regime classification, realized volatility, VIX vs S&P 500 |
-| 📊 Dynamic Asset Allocation | How shifting market conditions should drive portfolio weights |
+| 📊 Tactical Asset Allocation | How shifting market conditions should drive portfolio weights |
 | 📈 [VaR Simulation](https://github.com/Ivan-Finance/var_simulation) | Historical Simulation, Parametric (Gaussian), Monte Carlo |
 | 📰 [Pairs trading](https://github.com/Ivan-Finance/pairs_trading) | Spread analysis, z-score signals and ADF cointegration test
 | 🦕 [Dino Explorer](https://github.com/Ivan-Finance/Dino_Explorer) | API integration, PDF export, CLI design |
