@@ -1,72 +1,70 @@
-<div align="center">
+ <div align="center">
 
-# Learning to read markets through data.
+Understanding Markets Through Data
 
-<br>
-
-<img width="1001" height="713" alt="asset classes" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256" width="30%"/>
+Finance · Quantitative Analysis · Portfolio Research
 
 <br>
-<sub><i>Asset classes - normalized performance & correlations</i></sub>
+<img width="850" alt="Asset classes — normalized performance and correlations" src="https://github.com/user-attachments/assets/ca45d2a7-278e-4d5a-a1da-a8febec9f256"/>
+
+Asset classes — normalized performance & correlations
 
 </div>
 
+⸻
 
----
+About
 
-<br>
+I’m Ivan, a Finance graduate with a strong interest in the quantitative side of financial markets.
+
+My focus lies in understanding market dynamics through data, exploring risk and volatility, and analyzing how different asset classes behave across market conditions.
+
+I enjoy combining financial theory with programming and statistical methods to develop analytical tools and explore investment strategies.
+
+⸻
+
+Selected Projects
+
+Project	Focus
+VIX & Volatility Analysis	Volatility regimes, realized volatility, VIX vs. S&P 500
+Tactical Asset Allocation	Dynamic portfolio allocation, market regimes and strategy performance
+Value at Risk Simulation	Historical Simulation, Parametric VaR and Monte Carlo
+Pairs Trading	Spread analysis, z-score signals and ADF cointegration test
+Dino Explorer	API integration, PDF export and CLI design
+
+⸻
+
+Research & Portfolio Analysis
 
 <div align="center">
+<img width="850" alt="Monthly return distributions across strategies" src="https://github.com/user-attachments/assets/bb320f25-8d8b-44c7-abf1-fc23cf1b47a6"/>
 
-I'm Ivan, a finance student drawn to the quantitative side of markets.  
-I study how volatility, risk, and portfolio behavior can be understood  
-through data and structured reasoning.
+Monthly return distributions across portfolio strategies
+
+<img width="850" alt="Cumulative growth across market regimes" src="https://github.com/user-attachments/assets/042f0049-de47-4610-bd04-ada89392eea2"/>
+
+Cumulative portfolio growth across market regimes
 
 </div>
 
-<br>
+⸻
 
----
-
-<br>
+Technical Skills
 
 <div align="center">
 
-| Project | What it explores |
-|:---|:---|
-| 📉 [VIX & Volatility Analysis](https://github.com/Ivan-Finance/Volatility-index-analysis-VIX) | Regime classification, realized volatility, VIX vs S&P 500 |
-| 📊 Tactical Asset Allocation | How shifting market conditions should drive portfolio weights |
-| 📈 [VaR Simulation](https://github.com/Ivan-Finance/var_simulation) | Historical Simulation, Parametric (Gaussian), Monte Carlo |
-| 📰 [Pairs trading](https://github.com/Ivan-Finance/pairs_trading) | Spread analysis, z-score signals and ADF cointegration test
-| 🦕 [Dino Explorer](https://github.com/Ivan-Finance/Dino_Explorer) | API integration, PDF export, CLI design |
+Python · Pandas · NumPy · Matplotlib · SQL · Excel
+
 </div>
 
-<br>
-
----
+⸻
 
 <div align="center">
-<img width="1145" height="286" alt="ret_distributions" src="https://github.com/user-attachments/assets/bb320f25-8d8b-44c7-abf1-fc23cf1b47a6" width="80%" />
-<br>
-<sub><i>Monthly return distributions across strategies</i></sub>
+
+Connect
+
+LinkedIn · GitHub Repositories
+
+Exploring the intersection of finance, data and quantitative methods.
+
 </div>
-
-<br><br>
-
-<div align="center">
-<img width="929" height="425" alt="cumulative_growth" src="https://github.com/user-attachments/assets/042f0049-de47-4610-bd04-ada89392eea2" width="30%"/>
-<br>
-<sub><i>Cumulative growth across market regimes</i></sub>
-</div>
-
-
----
-
-<div align="center">
-
-**Python · Pandas · NumPy · Matplotlib**
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/ivan-garofalo) · [GitHub Projects](https://github.com/Ivan-Finance?tab=repositories)
-
