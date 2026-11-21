@@ -17,9 +17,9 @@
 
 <div align="center">
 
-I'm Ivan, a finance student drawn to the quantitative side of markets.  
-I study how volatility, risk, and portfolio behavior can be understood  
-through data and structured reasoning.
+I'm Ivan, a Finance graduate with a strong interest in the quantitative side of financial markets.
+My focus lies in understanding market dynamics through data, exploring risk and volatility, and analyzing how different asset classes behave across market conditions.
+I enjoy combining financial theory with programming and statistical methods to develop analytical tools and explore investment strategies.
 
 </div>
 
