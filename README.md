@@ -18,11 +18,7 @@
 <div align="center">
 
 I'm Ivan, a Finance graduate with a strong interest in the quantitative side of financial markets.
-My focus lies in understanding market dynamics through data, exploring risk and volatility, and analyzing how different asset classes behave across market conditions. <img width="1239" height="243" alt="Screenshot_27-11-2026_1740_localhost" src="https://github.com/user-attachments/assets/0d3feb61-eee7-433e-ab14-9f7cb47f7b33" />
-<img width="1239" height="243" alt="Screenshot_27-11-2026_1740_localhost" src="https://github.com/user-attachments/assets/ad860bfb-feda-4106-967c-07ff29aeed3b" />
-<img width="1239" height="243" alt="Screenshot_27-11-2026_1740_localhost" src="https://github.com/user-attachments/assets/af5ca79c-96af-47e7-b538-e8d807ade6f4" />
-<img width="1239" height="243" alt="Screenshot_27-11-2026_1740_localhost" src="https://github.com/user-attachments/assets/ddf709f1-7e44-4bac-969f-dcdce25c7171" />
-I enjoy combining financial theory with programming and statistical methods to develop analytical tools and explore investment strategies.
+My focus lies in understanding market dynamics through data, exploring risk and volatility, and analyzing how different asset classes behave across market conditions. I enjoy combining financial theory with programming and statistical methods to develop analytical tools and explore investment strategies.
 
 </div>
 
