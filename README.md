@@ -51,7 +51,7 @@ My focus lies in understanding market dynamics through data, exploring risk and 
 <br><br>
 
 <div align="center">
-<img width="929" height="425" alt="cumulative_growth" src="https://github.com/user-attachments/assets/042f0049-de47-4610-bd04-ada89392eea2" width="30%"/>
+<img width="1336" height="587" alt="Screenshot_27-11-2026_1773_localhost" src="https://github.com/user-attachments/assets/07e99bfc-fc76-4aed-8e26-dbeeebac814e" width="30%" />
 <br>
 <sub><i>Cumulative growth across market regimes</i></sub>
 </div>
